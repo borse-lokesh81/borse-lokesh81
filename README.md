@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=GovardhaneNitin&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ### 🌐 Follow Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/lokesh-borse-429b37272) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/LokeshBorse6?s=09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-borse-429b37272/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/LokeshBorse6?s=09) 
 
 ## 🌱 I’m currently learning:
 
