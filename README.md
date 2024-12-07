@@ -13,6 +13,7 @@
 
 - M E R N Stack
 - Open Source
+- DSA
 
 ## 🔭 I’m currently working on:
 
